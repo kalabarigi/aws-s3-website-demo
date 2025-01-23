@@ -17,7 +17,7 @@ jobs:
         api_key: ${{ secrets.SOOS_API_KEY }}
         project_name: "aws-s3-website-demo"
 
-jobs:
+#jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
