@@ -1,4 +1,4 @@
-name: Website Deployment
+name: S3 Website Deployment
 
 on:
   push:
